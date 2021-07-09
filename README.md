@@ -10,6 +10,7 @@ In this project, We have 6 entities that are as follows:
 6) Finetype
 
 By using this management system, you can insert, update, delete, display and search the records in database faster and thus reducing the paperwork.
-Below are some the screenshots of the system:
 
+Below are some the screenshots of the system:
+<img src="Screenshots/0_MainMenu.png"/>
 
