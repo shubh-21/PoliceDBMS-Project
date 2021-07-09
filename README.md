@@ -1,5 +1,6 @@
 # PoliceDBMS-Project
 **Police Database Management System Project**
+
 This project is made as a Mini Project for DBMS subject.
 In this project, We have 6 entities that are as follows:
 1) Officer
